@@ -1,0 +1,14 @@
+$primary:#12408F;
+$danger:#EB5757;
+$light: rgb(240, 240, 240);
+$tertiary: #0C8C9C;
+$blue:#0D6DA6;
+$blue-accent:#aad3df;
+
+$custom-colors:(
+    "blue":$blue,
+    "blue-accent":$blue-accent,
+    "primary":$primary,
+    "danger":$danger,
+    'tertiary': $tertiary,
+);

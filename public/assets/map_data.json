@@ -1,0 +1,147 @@
+{
+    "municipalities": [
+        {
+            "name": "San Andres",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "x":124.0981,
+                "y":13.6705
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Virac",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "x":124.1874,
+                "y":13.6046
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "San Miguel",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.7158,
+                "x":124.2547
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Bato",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.5990,
+                "x":124.3241
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Baras",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.7036,
+                "x":124.3594
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Gigmoto",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.7968,
+                "x":124.3553
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Viga",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.8552,
+                "x":124.3151
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Panganiban",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.9023,
+                "x":124.2796
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Bagamanoc",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.9554,
+                "x":124.2547
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Pandan",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":14.0409,
+                "x":124.2031
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        },
+        {
+            "name": "Caramoran",
+            "markerFill":"#0D6DA6",
+            "coordinates":{
+                "y":13.8814,
+                "x":124.1807
+            },
+            "fillStyle":{
+                "default":"#000",
+                "hovered":"#000",
+                "pressed":"#000"
+            }
+        }
+    ]
+}

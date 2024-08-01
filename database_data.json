@@ -1,0 +1,78 @@
+{
+    "municipalities":{
+        "Virac":[
+            {
+                "Gogon Centro":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Calatagan":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Francia":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Sta. Cruz":{
+                    "households":0,
+
+                }
+            },
+            {
+                "San Jose":{
+                    "households":0,
+
+                }
+            },
+            {
+                "San Juan":{
+                    "households":0,
+
+                }
+            },
+            {
+                "San Vicente":{
+                    "households":0,
+
+                }
+            },
+            {
+                "San Pablo":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Cavinitan":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Constantino":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Moonwalk":{
+                    "households":0,
+
+                }
+            },
+            {
+                "Palnab":{
+                    "households":0,
+
+                }
+            },
+        ]
+    }
+}
