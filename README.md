@@ -1,6 +1,6 @@
 ## Typhoon Assistance Monitoring and Inventory System for PSWDO (Provincial Social Welfare Development Office)
 
-### Capstone Project
+### Web Application
 
 - Provides Dashboard for Visualization of typhoon assistance distribution related data
 - Inventory - Manage and Track Resources
